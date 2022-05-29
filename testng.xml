@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+  <test name="Functional Testing">
+    <classes>
+      <class name="dummytesting.SoftAssertionEg"/>
+      <class name="dummytesting.GroupDemoTest"/>
+      <class name="dummytesting.PriorityTest"/>
+      <class name="dummytesting.BeforeTestBeforeMethodEg"/>
+      <class name="dummytesting.AssertionEg"/>
+      <class name="dummytesting.LoginTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
